@@ -86,9 +86,9 @@ GIFT Question Creator – это Windows Forms приложение для со�
 2. Внесите вопросы и создайте файл GIFT.
 
 ## Разработчик
-**[Ваше имя]**  
-Email: [ваш email]  
-GitHub: [ссылка на ваш профиль]
+**Tonisfel Tavern Багданов Илья**  
+Email: tonisfeltr@gmail.com  
+GitHub: <a>https://github.com/TonisfelTr</a>
 
 ---
 
