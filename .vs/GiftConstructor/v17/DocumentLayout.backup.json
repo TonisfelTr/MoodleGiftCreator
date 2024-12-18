@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|c:\\users\\seint\\source\\repos\\giftconstructor\\giftconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|solutionrelative:giftconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|c:\\users\\seint\\source\\repos\\giftconstructor\\giftconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|solutionrelative:giftconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|c:\\users\\seint\\source\\repos\\giftconstructor\\giftconstructor\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|solutionrelative:giftconstructor\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|c:\\users\\seint\\source\\repos\\giftconstructor\\giftconstructor\\fileuploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2116C546-AF68-4610-B449-1417A71CDBBA}|GiftConstructor\\GiftConstructor.csproj|solutionrelative:giftconstructor\\fileuploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUploader.cs",
+              "DocumentMoniker": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\FileUploader.cs",
+              "RelativeDocumentMoniker": "GiftConstructor\\FileUploader.cs",
+              "ToolTip": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\FileUploader.cs",
+              "RelativeToolTip": "GiftConstructor\\FileUploader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:06:00.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "GiftConstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\Program.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GiftConstructor\\Program.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:44:11.585Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\Question.cs",
+              "RelativeDocumentMoniker": "GiftConstructor\\Question.cs",
+              "ToolTip": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\Question.cs",
+              "RelativeToolTip": "GiftConstructor\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:39:40.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "GiftConstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\seint\\source\\repos\\GiftConstructor\\GiftConstructor\\Program.cs",
+              "RelativeToolTip": "GiftConstructor\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:37:06.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

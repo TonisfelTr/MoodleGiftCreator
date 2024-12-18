@@ -1,0 +1,10 @@
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftConstructor.csproj.AssemblyReference.cache
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftQuestionCreator.MainForm.resources
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftConstructor.Properties.Resources.resources
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftConstructor.csproj.GenerateResource.cache
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftConstructor.csproj.CoreCompileInputs.cache
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\bin\Debug\GiftConstructor.exe.config
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\bin\Debug\GiftConstructor.exe
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\bin\Debug\GiftConstructor.pdb
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftConstructor.exe
+C:\Users\seint\source\repos\GiftConstructor\GiftConstructor\obj\Debug\GiftConstructor.pdb
